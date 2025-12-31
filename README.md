@@ -1,7 +1,7 @@
 # Trader Behavior vs Market Sentiment Analysis
 
 ## Overview
-This project analyzes the relationship between trader execution behavior and Bitcoin market sentiment (Fear & Greed Index).
+This project analyzes the relationship between trader execution behavior and  market sentiment (Fear & Greed Index).
 
 ## NOTE
 Due to github file size limmits, the processed data is in zip format.
